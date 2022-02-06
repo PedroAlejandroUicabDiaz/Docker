@@ -1,2 +1,2 @@
 # Docker
-Docker fundamentals basics
+get starting with docker fundamentals
